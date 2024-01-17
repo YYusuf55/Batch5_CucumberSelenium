@@ -1,4 +1,4 @@
-@regression @parameteriz
+@regression @parameteriz @paralleltest
 Feature: Login tests with Cucumber Parameters
 
   #mike

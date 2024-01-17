@@ -1,4 +1,4 @@
-@regression
+@regression @paralleltest
 Feature: Krafttech Login Test
  # Agile story : As a user , I should be able to login with valid credentials
 
