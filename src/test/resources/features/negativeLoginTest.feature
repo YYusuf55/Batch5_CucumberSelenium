@@ -4,7 +4,7 @@ Feature: Negative Login Test
   # Do not forget to take the message wh,ch show the result as negative
   # Create step def class and if needed create locator and methods in related
 
-  @c_negativeLogin
+  @c_negativeLogin @grid1
   Scenario Outline: Negative Login Test
     Given The user is on the login page
     When The user logs in using "<userEmail>" and "<password>"
