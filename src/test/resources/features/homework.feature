@@ -1,4 +1,4 @@
-@c_scenarioHomeWork
+@c_scenarioHomeWork @grid
 
 Feature: Edit Profile Page
 

@@ -1,4 +1,4 @@
-@paralleltest
+@paralleltest @grid
 Feature:Login with scenario Outline
 
   @c_scenarioOutLine

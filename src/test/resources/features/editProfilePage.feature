@@ -1,4 +1,4 @@
-@c_editProfile
+@c_editProfile @grid
 Feature: Edit Profile Page
 
   Background:

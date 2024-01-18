@@ -1,4 +1,4 @@
-@regression @listandmap
+@regression @listandmap @grid
 Feature: Dashboard Menu Checks
   #TASK-1
   #login with john
